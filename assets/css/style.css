@@ -23,7 +23,27 @@ a:hover {
   color: #37b3ed;
   text-decoration: none;
 }
+.bg-custom-orange {
+  background-color:#F57900 ; /* Adjust the hex color code as needed */
+}
+.bg-dotnet-purple {
+  background-color: #512BD4;
+}
+.bg-unity-dark-blue {
+  background-color: #222C37;
+}
+.bg-vue-green {
+  background-color: #4FC08D;
+}
 
+
+.text-unity-green {
+  color: #19A25D;
+}
+
+.bg-angular-red {
+  background-color: #DD0031;
+}
 h1,
 h2,
 h3,
@@ -243,7 +263,10 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
+
 
 #hero:before {
   content: "";
