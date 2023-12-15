@@ -35,7 +35,18 @@ a:hover {
 .bg-vue-green {
   background-color: #4FC08D;
 }
+.video-container {
+  position: relative;
+  padding-top: 56.25%; /* 16:9 aspect ratio (h/w * 100) */
+}
 
+#my-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 .text-unity-green {
   color: #19A25D;
