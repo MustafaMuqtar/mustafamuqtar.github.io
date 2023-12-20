@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" type="text/css" href="style2.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div class="reservation" id="reservation">
+        <div class="image"></div>
+        <div class="form">
+            <h1 class="heading">BOOK A TABLE</h1>
+            <div class="Luxury">
+                <h3 class="sub-heading"> Check out our place </h3>
+            </div>
+
+            <form id="bookingForm" onsubmit="submitForm(event)">
+                <div class="form-holder">
+                    <div>
+                        <select name="amountPeople">
+                            <option>1 person</option>
+                            <option>2 people</option>
+                            <option>3 people</option>
+                            <option>4 people</option>
+                            <option>5 people</option>
+                            <option>6 people</option>
+                        </select>
+
+                        <select name="time">
+                            <option>16:00</option>
+                            <option>17:00</option>
+                            <option>18:15</option>
+                            <option>19:15</option>
+                            <option>20:30</option>
+                            <option>21:30</option>
+                        </select>
+
+                        <input type="text" name="phone" placeholder="Phone">
+                    </div>
+
+                    <div>
+                        <div class="container">  
+                            <div class="row">  
+                                <div class="col-sm-12" align="center">   
+                                    <input type="date" name="date">  
+                                </div>  
+                            </div>  
+                        </div>  
+
+                        <input type="text" name="Name" placeholder="Name">
+                        <input type="email" name="email" placeholder="Email">
+                    </div>
+                </div>
+
+                <button type="submit" class="btn">Book Now</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        const url = 'https://localhost:7282/api/Booking';
+
+        function submitForm(event) {
+            event.preventDefault(); // Prevent the form from submitting in the traditional way
+
+            const form = document.getElementById('bookingForm');
+
+            // Get values from form inputs
+            const name = form.querySelector('input[name="Name"]').value;
+            const email = form.querySelector('input[name="email"]').value;
+            const phone = form.querySelector('input[name="phone"]').value;
+            const amountPeople = form.querySelector('select[name="amountPeople"]').value;
+            const time = form.querySelector('select[name="time"]').value;
+            const dateChosen = form.querySelector('input[name="date"]').value;
+
+            const data = {
+                name: name,
+                email: email,
+                phone: phone,
+                amountPeople: amountPeople,
+                time: time,
+                dateChosen: dateChosen,
+                availability: true,  // Update with actual availability logic
+            };
+
+            // Make a POST request using Axios
+            axios.post(url, data)
+                .then(response => {
+                    console.log('Success:', response.data);
+                    // Handle success, e.g., show a success message to the user
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    // Handle error, e.g., show an error message to the user
+                });
+        }
+    </script>
+</body>
+</html>
