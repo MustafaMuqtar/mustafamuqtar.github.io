@@ -1,0 +1,208 @@
+[
+    {
+        "id": "2",
+        "category": "VR",
+        "title": "Agent 0",
+        "image": "/assets/images/vr/construction-scene.jpg",
+        "files": [
+            "/assets/videos/video.mp4"
+
+
+
+        ],
+        "projectInformation": [
+            "Software: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Toolkit: XR Interaction Toolkit",
+            "Scenes: Blender",
+            "Assets: Unity",
+            "Sound: FMOD",
+            "Characters: Mixamo",
+            "Character Animation: Mixamo"
+        ],
+        "projectPurpose": "This was my second project, and the goal was to learn how to create a story with a clear beginning and end. I had three weeks to complete the task. The story I created was about an agent carrying out a mission. The agent had a base and received various assignments. I learned to use features that allow navigation back and forth between scenes. In each scene, certain elements were to be visible, and when moving to the next mission scene, different functions would be activated. If returning to a previous scene, either something new would play or the last action would continue.\n\nThrough this project, I learned how a save system works. I understood how to manage state and data between different scenes and how to implement functions to resume game progression. I also created the scenes in this story myself by modeling them in Blender. All this was completed over a period of one month. I successfully achieved the task's goal and further developed my skills in game development."
+    },
+    {
+        "id": "6",
+        "category": "VR",
+        "title": "VR DJ",
+        "image": "/assets/images/vr/dj.jpg",
+        "files": [],
+        "projectInformation": [
+            "Software: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Toolkit: XR Interaction Toolkit",
+            "DJ Table: Blender",
+            "Sound: FMOD"
+        ],
+        "projectPurpose": "This was my third project, and the goal was to learn how to work in a team. We were four people collaborating on this project, which had to be completed in less than a month. The theme of the project was music, and I was responsible for creating the DJ functionality in the VR experience. This involved handling the programming part, which I am most interested in. The goal was for the player to imagine being Avicii and playing Avicii's songs in a DJ environment.\n\nDuring the project, I learned a lot about teamwork and how to effectively divide tasks. Each of us focused on different parts of the project, which gave me valuable experience in working together towards a common goal."
+    },
+    {
+        "id": "10",
+        "category": "VR",
+        "title": "Shooting Targets & Zombies",
+        "image": "/assets/images/vr/zombie.jpg",
+        "files": [
+            ""
+        ],
+        "projectInformation": [
+            "Software: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Toolkit: XR Interaction Toolkit",
+            "Scenes: Blender",
+            "Assets: Unity",
+            "Sound: FMOD",
+            "Characters: Mixamo",
+            "Character Animation: Mixamo"
+        ],
+        "projectPurpose": ""
+    },
+    {
+        "id": "5",
+        "category": "Blender",
+        "title": "Inside a house 3D",
+        "image": "/assets/images/blender/house-3d/toilet.jpg",
+        "files": [
+            "/assets/images/blender/house-3d/inside.jpg",
+            "/assets/images/blender/house-3d/livingroom.jpg",
+            "/assets/images/blender/house-3d/bedroom.jpg",
+            "/assets/images/blender/house-3d/hall.jpg",
+            "/assets/images/blender/house-3d/kitchen.jpg",
+            "/assets/images/blender/house-3d/toilet.jpg"
+        ],
+        "projectInformation": [
+            "Software: Blender",
+            "Vertices: 65,184",
+            "Edges: 122,502",
+            "Faces: 58,264",
+            "Triangles: 119,376",
+            "Export To: None"
+        ],
+        "projectPurpose": "This was my first modeling project in Blender. Here, I experimented with modeling the interior of a house, creating two bedrooms and a living room. I also designed a kitchen and a bathroom. As my first Blender project, I focused primarily on creating as many models as possible to make the house detailed. All of this was to practice how Blender works, learn the Blender environment, and become familiar with its shortcut keys."
+    },
+    {
+        "id": "9",
+        "category": "Blender",
+        "title": "Shooting Range 3D Scene",
+        "image": "/assets/images/blender/target-scene.jpg",
+        "files": [
+            "/assets/images/gifs/shooting-target-scene.gif"
+        ],
+        "projectInformation": [
+            "Software: Blender",
+            "Vertices: 16,581",
+            "Edges: 33,067",
+            "Faces: 16,548",
+            "Triangles: 33,553",
+            "Export To: Unity"
+        ],
+        "projectPurpose": "My second Blender project involved creating a scene for use in Unity. I developed a VR game and needed a scene for it. Here, I concentrated on optimizing my Blender modeling as much as possible before deploying it to Unity. Through this project, I gained a better understanding of the importance of modeling correctly to be usable in Unity and VR."
+    },
+    {
+        "id": "11",
+        "category": "Blender",
+        "title": "Shipment 3D Scene",
+        "image": "/assets/images/blender/shipment-3d/shipment-3d-4.jpg",
+        "files": [
+            "/assets/images/blender/shipment-3d/shipment-3d-1.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-2.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-3.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-4.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-5.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-6.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-7.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-8.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-9.jpg"
+        ],
+        "projectInformation": [
+            "Software: Blender",
+            "Vertices: 65,184",
+            "Edges: 122,502",
+            "Faces: 58,264",
+            "Triangles: 119,376",
+            "Export To: Unity"
+        ],
+        "projectPurpose": "This was my third Blender project. I created this project to be used in my VR game, Agent 0. The scene was central to the game. I drew inspiration from the classic Shipment map from Call of Duty, which I played when I was younger, and used it as a reference for my scene modeling."
+    },
+    {
+        "id": "3",
+        "category": "Backend",
+        "title": ".NET Course Application API",
+        "image": "/assets/images/angular-images/codechemist-api.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-api.jpg",
+            "/assets/images/angular-images/Skärmbild 2024-08-20 184120.png"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Language: JavaScript",
+            "Frontend: Angular",
+            "Database: SQL",
+            "Server: Loopia",
+            "Authentication: JWT Token",
+            "Cloud Storage: Cloudinary",
+            "ORM: Entity Framework",
+            "Development Tool: Swagger"
+        ],
+        "projectPurpose": "Building on the foundational knowledge from my first API project, the .NET Course Application API represents a significant advancement in my API development skills. This project showcases more advanced practices and a fully realized web application. In this project, I designed a robust API using best practices in .NET, implementing five controllers to manage complex data relationships and their interactions. The architecture follows a clean separation of concerns, utilizing a three-layer structure: Repository, Service, and Controller. This structure ensures a well-organized codebase and efficient data management. I utilized SQL for database management, with the SQL server hosted remotely on the Loopia cloud platform, providing a scalable and secure environment for data handling. To optimize the application's performance, I implemented asynchronous programming with async/await tasks, ensuring that operations such as database queries and external API calls are executed efficiently. Continuing with Cloudinary for managing images and files, I addressed its 100MB file size limitation by implementing a custom file repository. This enhancement supports the upload of larger media files, including WebGL web-based games. Users can upload a ZIP file containing the game, which is then processed and converted into a playable WebGL game using Unity, directly accessible on the website. In terms of authentication, I explored advanced .NET security practices by developing a robust registration and login system with email verification. This system was integrated with SMTP services provided by Loopia, ensuring reliable email delivery for account verification. Upon registration, users receive a confirmation email with a verification link, ensuring a secure and reliable authentication process. Comprehensive error handling was another critical aspect of this API. I ensured that errors are effectively communicated to the front end, allowing the Angular front end to display detailed error messages provided by the API. This feature enhances the user experience and simplifies troubleshooting. Overall, the .NET Course Application API demonstrates my ability to apply best practices, manage complex data relationships, integrate various functionalities into a cohesive web application, and effectively utilize asynchronous programming for enhanced performance. This project marks a significant milestone in my API development journey."
+    },
+    {
+        "id": "4",
+        "category": "Frontend",
+        "title": "Angular Course Application",
+        "image": "/assets/images/angular-images/codechemist-front.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-front.jpg"
+        ],
+        "projectInformation": [
+            "JS Framework: Angular",
+            "Language: TypeScript",
+            "Backend: .NET",
+            "Development Tool: Node.js",
+            "CSS Framework: Bootstrap",
+            "Video Player: Video.js",
+            "Reactive Programming: RxJS"
+        ],
+        "projectPurpose": "The Angular Course Application marks my second project using a JavaScript framework, this time leveraging Angular. This experience deepened my understanding of modern front-end frameworks and reinforced my appreciation for Angular's robust features. In this project, I fully embraced TypeScript, adhering to best practices in front-end development. I leveraged TypeScript's powerful features, such as interfaces and type safety, to avoid the use of any and ensure a more reliable and maintainable codebase. Working with TypeScript was particularly gratifying, as it resonated with my experience in C#, a language I greatly enjoy. Throughout the project, I utilized RxJS and Angular services to align with Angular’s best practices, incorporating reactive programming for efficient handling of asynchronous operations. I also implemented thorough validation to ensure the application's robustness. To enhance the user interface and experience, I integrated Bootstrap for responsive design and Video.js for media playback. Additionally, I employed Angular guards to secure routes and control access within the application, adding an extra layer of security and user management. The application was designed with a focus on dynamism and extensibility, making it easy to add new features in the future. After completing the development, it was published. Overall, the Angular Course Application was a significant step in expanding my front-end development skills, providing valuable hands-on experience with Angular and TypeScript."
+    },
+    {
+        "id": "7",
+        "category": "Backend",
+        "title": ".NET Music Application API",
+        "image": "/assets/images/vue-images/music-api.jpg",
+        "files": [
+            "/assets/images/Guldlock.jpg",
+            "https://codechemist.se/assets/images/codechemist.svg"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Language: JavaScript",
+            "Frontend: Vue",
+            "Database: SQL",
+            "Server: Loopia",
+            "Authentication: JWT Token",
+            "Cloud Storage: Cloudinary",
+            "ORM: Entity Framework",
+            "Development Tool: Swagger"
+        ],
+        "projectPurpose": "As my first foray into Web API development, I created a .NET Music Application API to dive into the fundamentals of API design and implementation. This project was motivated by a desire to learn and apply core concepts in a practical development environment. The primary goal of this API was to manage relationships between artists and songs, effectively handling relational data. To ensure that the controllers remain clean and focused on handling requests, I developed a service layer that encapsulates business logic. This approach allowed me to structure the application for better organization and scalability. I used SQL as the database solution, which provided me with hands-on experience in managing and querying relational data effectively. Additionally, I implemented asynchronous programming using async/await tasks to improve the responsiveness and performance of the application, particularly when handling database operations and external API calls. A key learning outcome was the implementation of pagination and filtering features. I added custom query parameters such as Search Term, Genre, Page Number, Page Size, and Alphabetical Ordering, enabling efficient data retrieval and navigation. This provided valuable experience in managing data access and enhancing user interaction. For managing media files, I integrated Cloudinary to store images and songs. This integration was a critical learning experience in working with cloud services and efficiently managing media files. Additionally, I implemented basic .NET authentication, allowing user registration and login. While this provided a foundational understanding of authentication, I recognize areas for improvement and plan to enhance these features in the future. Overall, this project was an essential step in my learning journey, offering practical experience in API development."
+    },
+    {
+        "id": "8",
+        "category": "Frontend",
+        "title": "Vue Music Application",
+        "image": "/assets/images/vue-images/music-front.jpg",
+        "files": [
+            "/assets/images/Guldlock.jpg",
+            "https://codechemist.se/assets/images/codechemist.svg"
+        ],
+        "projectInformation": [
+            "JS Framework: Vue",
+            "Language: JavaScript",
+            "Backend: .NET",
+            "Development Tool: Node.js",
+            "API: Vue Composition API"
+        ],
+        "projectPurpose": "The Vue Music Application represents my first venture into using a JavaScript framework, specifically Vue.js. This project involved integrating and extending the .NET Music Application API that I had previously developed. My primary objective was to gain a deep understanding of how Vue.js operates and to leverage the Composition API for more effective component management. Throughout this project, I focused on mastering Vue.js and the broader JavaScript ecosystem by implementing CRUD operations to interact with the API. I also incorporated pagination and filtering features, allowing users to search and navigate song data efficiently using custom query parameters like Search Term, Genre, Page Number, Page Size, and Alphabetical Ordering. This project significantly enhanced my skills in JavaScript, HTML, and CSS. It provided a hands-on introduction to the Vue ecosystem, offering practical experience in building dynamic, responsive web applications that effectively integrate with backend services. Overall, the Vue Music Application was a pivotal step in advancing my development skills, and deepening my understanding of modern JavaScript frameworks."
+    }
+]

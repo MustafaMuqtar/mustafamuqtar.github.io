@@ -1,0 +1,86 @@
+{
+    "HOME": {
+        "JOBTITLEONE": "Extended Reality Utvecklare",
+        "JOBTITLETWO": "Fullstack Utvecklare",
+        "JOBTITLETHREE": "3D Modellerare"
+    },
+    "ABOUT": {
+        "TITLEPARTONE": "Om",
+        "TITLEPARTWO": "",
+        "DESCRIPTION": "Som Fullstack-utvecklare besitter jag kompetens inom både backend och frontend och har specialiserat mig på .NET, Angular och Vue. Som en Extended Reality (XR) utvecklare ligger mitt fokus på att skapa engagerande och innovativa XR-upplevelser genom användning av Unity. Utöver min bakgrund inom utveckling driver jag min hobbyprojekt, en online-plattform vid namn Codechemist.se. På Codechemist erbjuder jag lektioner inom programmering och delar med mig av mina kunskaper inom C#, JavaScript, .NET och Unity. Jag tror starkt på vikten av att dela kunskap och betraktar undervisning som ett sätt att bidra till samhället.",
+        "PROFESSION": "Extended Reality & Fullstack Utvecklare",
+        "BIRTHDAY": "1 december 1994",
+        "AGE": "29",
+        "PHONE": "+46 76 265 3718",
+        "EMAIL": "mustafa.muqtar@codechemist.se",
+        "LOCATION": "Stockholm, Sverige",
+        "WEBSITE": "codechemist.se"
+    },
+    "NAVBAR": {
+        "HOME": "Hem",
+        "ABOUT": "Om",
+        "SKILLS": "Färdigheter",
+        "RESUME": "CV",
+        "PORTFOLIO": "Portfölj",
+        "CONTACT": "Kontakt"
+    },
+    "SKILLS": {
+        "TITLEPARTONE": "Fär",
+        "TITLEPARTWO": "digheter"
+    },
+    "CONTACT": {
+        "TITLEPARTONE": "Kon",
+        "TITLEPARTWO": "takt",
+        "ADDRESS": {
+            "TITLE": "Adress",
+            "DETAILS": "Beckombergavägen 9, Stockholm, Sverige"
+        },
+        "PHONE": {
+            "TITLE": "Telefon",
+            "DETAILS": "+46 76 265 37 18"
+        },
+        "EMAIL": {
+            "TITLE": "E-post",
+            "DETAILS": "mustafa.muqtar@codechemist.se"
+        }
+    },
+    "PORTFOLIO": {
+        "TITLEPARTONE": "Por",
+        "TITLEPARTWO": "tfölj",
+        "DESCRIPTION": "Utforska de projekt jag har skapat nedan. Klicka på någon bild för att få detaljerad information och insikt i det presenterade arbetet.",
+        "PORTFOLIODETAILTITLEPARTONE": "Projekt information",
+        "PORTFOLIODETAILTITLEPARTWO": " Syfte med projektet"
+     },
+    "RESUME": {
+        "TITLEPARTONE": "CV",
+        "TITLEPARTWO": "",
+        "EDUCATIONONE": {
+            "ROLE": "Extended Reality Utvecklare",
+            "DATES": "2022-07-01 – 2024-06-16",
+            "INSTITUTION": "Nackademin, Yrkeshögskola"
+        },
+        "EDUCATIONTWO": {
+            "ROLE": "Fullstack Utvecklare",
+            "DATES": "2022-07-21 – 2023-11-23",
+            "INSTITUTION": "Distansakademin, Yrkeshögskola"
+        },
+        "WORKONE": {
+            "ROLE": "Programmeringslärare",
+            "DATES": "2023-09 – 2024-06-23",
+            "INSTITUTION": "Fredrika Bremergymnasiet",
+            "DETAILS": "Undervisar i Programmering under ett läsår med fokus på C# och JavaScript."
+        }
+    },
+    "ROUTER": {
+        "HOME": "hem",
+        "ABOUT": "om",
+        "SKILLS": "fardigheter",
+        "RESUME": "cv",
+        "PORTFOLIO": "portfolj",
+        "CONTACT": "kontakt",
+        "LANGUAGE": "sv"
+    },
+    "ERRORS":{
+        "PORTFOLIOERROR":"Inga portföljer hittades för denna kategori."
+    }
+}

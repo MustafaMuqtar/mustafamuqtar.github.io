@@ -1,0 +1,86 @@
+{
+    "HOME": {
+        "JOBTITLEONE": "Extended Reality Developer",
+        "JOBTITLETWO": "Fullstack Developer",
+        "JOBTITLETHREE": "3D Modeler"
+    },
+    "ABOUT": {
+        "TITLEPARTONE": "Abo",
+        "TITLEPARTWO": "ut",
+        "DESCRIPTION": "As a Fullstack Developer, I have expertise in both backend and frontend, specializing in .NET, Angular, and Vue. As an Extended Reality (XR) developer, my focus is on creating engaging and innovative XR experiences using Unity. In addition to my development background, I run a hobby project, an online platform called Codechemist.se, where I offer programming lessons and share my knowledge in C#, JavaScript, .NET, and Unity. I strongly believe in the importance of sharing knowledge and view teaching as a way to contribute to society.",
+        "PROFESSION": "Extended Reality & Fullstack Developer",
+        "BIRTHDAY": "December 1, 1994",
+        "AGE": "29",
+        "PHONE": "+46 76 265 3718",
+        "EMAIL": "mustafa.muqtar@codechemist.se",
+        "LOCATION": "Stockholm, Sweden",
+        "WEBSITE": "codechemist.se"
+    },
+    "NAVBAR": {
+        "HOME": "Home",
+        "ABOUT": "About",
+        "SKILLS": "Skills",
+        "RESUME": "Resume",
+        "PORTFOLIO": "Portfolio",
+        "CONTACT": "Contact"
+    },
+    "SKILLS": {
+        "TITLEPARTONE": "Ski",
+        "TITLEPARTWO": "lls"
+    },
+    "CONTACT": {
+        "TITLEPARTONE": "Con",
+        "TITLEPARTWO": "tact",
+        "ADDRESS": {
+            "TITLE": "Address",
+            "DETAILS": "Beckombergavägen 9, Stockholm, Sweden"
+        },
+        "PHONE": {
+            "TITLE": "Phone",
+            "DETAILS": "+46 76 265 37 18"
+        },
+        "EMAIL": {
+            "TITLE": "Email",
+            "DETAILS": "mustafa.muqtar@codechemist.se"
+        }
+    },
+    "PORTFOLIO": {
+        "TITLEPARTONE": "Por",
+        "TITLEPARTWO": "tfolio",
+        "DESCRIPTION": "Explore the projects I've created below. Click on any image to access detailed information and gain insight into the work showcased.",
+        "PORTFOLIODETAILTITLEPARTONE": "Project information",
+        "PORTFOLIODETAILTITLEPARTWO": " Purpose of the project"
+    },
+    "RESUME": {
+        "TITLEPARTONE": "Re",
+        "TITLEPARTWO": "sume",
+        "EDUCATIONONE": {
+            "ROLE": "Extended Reality Developer",
+            "DATES": "2022-07-01 – 2024-06-16",
+            "INSTITUTION": "Nackademin, Higher Vocational School"
+        },
+        "EDUCATIONTWO": {
+            "ROLE": "Fullstack Developer",
+            "DATES": "2022-07-21 – 2023-11-23",
+            "INSTITUTION": "Distansakademin, Higher Vocational School"
+        },
+        "WORKONE": {
+            "ROLE": "Programming Teacher",
+            "DATES": "2023-09 – 2024-06-23",
+            "INSTITUTION": "Fredrika Bremer Gymnasium",
+            "DETAILS": "Teaching Programming for a year with a focus on C# and JavaScript."
+        }
+    },
+    "ROUTER": {
+        "HOME": "home",
+        "ABOUT": "about",
+        "SKILLS": "skills",
+        "RESUME": "resume",
+        "PORTFOLIO": "portfolio",
+        "CONTACT": "contact",
+        "LANGUAGE": "en"
+    },
+    "ERRORS":{
+        "PORTFOLIOERROR":"No portfolios found for this category."
+    }
+}
