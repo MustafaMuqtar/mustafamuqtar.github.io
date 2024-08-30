@@ -65,10 +65,14 @@
             "INSTITUTION": "Distansakademin, Higher Vocational School"
         },
         "WORKONE": {
-            "ROLE": "Programming Teacher",
+            "ROLE": "High School Programming Teacher",
             "DATES": "2023-09 – 2024-06-23",
             "INSTITUTION": "Fredrika Bremer Gymnasium",
-            "DETAILS": "Teaching Programming for a year with a focus on C# and JavaScript."
+            "DETAILS": [
+                "Taught programming courses in C# and JavaScript during the first semester, providing students with a strong foundation in these essential languages.",
+                "In the second semester, guided students through a hands-on project where they could choose between web development and game development using Unity.",
+                "Successfully led students through the complete project lifecycle, from conception to execution, culminating in the second half of the academic year."
+            ]
         }
     },
     "ROUTER": {
@@ -80,7 +84,7 @@
         "CONTACT": "contact",
         "LANGUAGE": "en"
     },
-    "ERRORS":{
-        "PORTFOLIOERROR":"No portfolios found for this category."
+    "ERRORS": {
+        "PORTFOLIOERROR": "No portfolios found for this category."
     }
 }

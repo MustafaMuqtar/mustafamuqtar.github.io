@@ -1,0 +1,1 @@
+h2{text-align:left;color:#f8f9fa;position:relative}h2 .underline{position:relative;display:inline-block}h2 .underline:after{content:"";display:block;height:2px;background-color:#0d6efd;position:absolute;bottom:-5px;left:0;width:100%}

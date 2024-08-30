@@ -6,11 +6,9 @@
         "image": "/assets/images/vr/construction-scene.jpg",
         "files": [
             "/assets/videos/video.mp4"
-
-
-
         ],
         "projectInformation": [
+            "Development Time: 5 weeks",
             "Software: Unity",
             "VR-headset: Oculus Quest 2",
             "Toolkit: XR Interaction Toolkit",
@@ -29,6 +27,7 @@
         "image": "/assets/images/vr/dj.jpg",
         "files": [],
         "projectInformation": [
+            "Development Time: 4 weeks",
             "Software: Unity",
             "VR-headset: Oculus Quest 2",
             "Toolkit: XR Interaction Toolkit",
@@ -46,6 +45,7 @@
             ""
         ],
         "projectInformation": [
+            "Development Time: 2 months",
             "Software: Unity",
             "VR-headset: Oculus Quest 2",
             "Toolkit: XR Interaction Toolkit",
@@ -71,6 +71,7 @@
             "/assets/images/blender/house-3d/toilet.jpg"
         ],
         "projectInformation": [
+            "Development Time: 3 months",
             "Software: Blender",
             "Vertices: 65,184",
             "Edges: 122,502",
@@ -89,6 +90,7 @@
             "/assets/images/gifs/shooting-target-scene.gif"
         ],
         "projectInformation": [
+            "Development Time: 3 weeks",
             "Software: Blender",
             "Vertices: 16,581",
             "Edges: 33,067",
@@ -115,6 +117,7 @@
             "/assets/images/blender/shipment-3d/shipment-3d-9.jpg"
         ],
         "projectInformation": [
+            "Development Time: 2 weeks",
             "Software: Blender",
             "Vertices: 65,184",
             "Edges: 122,502",
@@ -193,8 +196,7 @@
         "title": "Vue Music Application",
         "image": "/assets/images/vue-images/music-front.jpg",
         "files": [
-            "/assets/images/Guldlock.jpg",
-            "https://codechemist.se/assets/images/codechemist.svg"
+            "/assets/images/vue-images/music-front.jpg"
         ],
         "projectInformation": [
             "JS Framework: Vue",

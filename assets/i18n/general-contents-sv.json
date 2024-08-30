@@ -50,7 +50,7 @@
         "DESCRIPTION": "Utforska de projekt jag har skapat nedan. Klicka på någon bild för att få detaljerad information och insikt i det presenterade arbetet.",
         "PORTFOLIODETAILTITLEPARTONE": "Projekt information",
         "PORTFOLIODETAILTITLEPARTWO": " Syfte med projektet"
-     },
+    },
     "RESUME": {
         "TITLEPARTONE": "CV",
         "TITLEPARTWO": "",
@@ -65,10 +65,14 @@
             "INSTITUTION": "Distansakademin, Yrkeshögskola"
         },
         "WORKONE": {
-            "ROLE": "Programmeringslärare",
+            "ROLE": "Gymnasielärare i Programmering",
             "DATES": "2023-09 – 2024-06-23",
             "INSTITUTION": "Fredrika Bremergymnasiet",
-            "DETAILS": "Undervisar i Programmering under ett läsår med fokus på C# och JavaScript."
+            "DETAILS": [
+                "Undervisade i programmering i C# och JavaScript under första terminen, och gav eleverna en solid grund i dessa viktiga språk.",
+                "Under andra terminen ledde jag eleverna genom ett praktiskt projekt där de fick välja mellan att skapa en webbplats eller utveckla ett spel i Unity.",
+                "Under andra terminen ledde jag eleverna genom ett praktiskt projekt där de fick välja mellan att skapa en webbplats eller utveckla ett spel i Unity."
+            ]
         }
     },
     "ROUTER": {
@@ -80,7 +84,7 @@
         "CONTACT": "kontakt",
         "LANGUAGE": "sv"
     },
-    "ERRORS":{
-        "PORTFOLIOERROR":"Inga portföljer hittades för denna kategori."
+    "ERRORS": {
+        "PORTFOLIOERROR": "Inga portföljer hittades för denna kategori."
     }
 }
