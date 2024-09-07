@@ -1,0 +1,214 @@
+[
+    {
+        "id": "2",
+        "category": "VR",
+        "title": "Agent 0",
+        "image": "/assets/images/vr/construction-scene.jpg",
+        "files": [
+            "https://codechemist.se//Videos/638607408709817665.mp4",
+            "https://codechemist.se//Videos/638606668680790736.mp4"
+
+        ],
+        "projectInformation": [
+            "Utvecklingstid: 5 veckor",
+            "Programvara: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Verktygslåda: XR Interaction Toolkit",
+            "Scener: Blender",
+            "Tillgångar: Unity",
+            "Ljud: FMOD",
+            "Karaktärer: Mixamo",
+            "Karaktärsanimation: Mixamo"
+        ],
+        "projectPurpose": "<p>Detta var mitt andra projekt, där jag utvecklade ett VR-berättelsebaserat spel under en 5-veckorsperiod. Som ett soloprojekt var jag ansvarig för både programmering och 3D-modellering. Spelet kretsar kring en spelare som antar rollen som en agent och genomför uppdrag som börjar och slutar vid en central bas. Efter varje uppdrag återvänder spelaren till basen för att få nya uppdrag, vilket skapar en dynamisk och engagerande spelupplevelse.</p> <p>Under projektets gång utvecklade jag mina färdigheter i C#-programmering och fick erfarenhet av Unitys AI-system samt animationer. Dessutom modellerade jag spelscenerna med Blender och lärde mig att använda FMOD för ljudintegration. Detta projekt gav mig möjlighet att framgångsrikt kombinera teknisk programmering med kreativ berättelseförmedling, vilket resulterade i en uppslukande VR-upplevelse.</p>"
+    },
+    {
+        "id": "6",
+        "category": "VR",
+        "title": "VR DJ",
+        "image": "/assets/images/vr/dj.jpg",
+        "files": [],
+        "projectInformation": [
+            "Utvecklingstid: 4 veckor",
+            "Programvara: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Verktygslåda: XR Interaction Toolkit",
+            "DJ-bord: Blender",
+            "Ljud: FMOD"
+        ],
+        "projectPurpose": "<p>Detta var mitt tredje projekt, och syftet var att lära mig att arbeta i grupp. Vi var fyra personer som samarbetade i detta projekt, som skulle genomföras på mindre än en månad. Temat för projektet var musik, och jag hade ansvaret för att skapa DJ-funktionaliteten i VR-upplevelsen. Detta innebar att jag ansvarade för programmeringsdelen, som jag är mest intresserad av. Målet var att spelaren skulle kunna föreställa sig att vara Avicii och spela Aviciis låtar i en DJ-miljö.</p><p>Under projektets gång lärde jag mig mycket om gruppsamarbete och hur man effektivt delar upp arbetsuppgifter. Vi fokuserade var och en på olika delar av projektet, vilket gav mig värdefull erfarenhet av att arbeta tillsammans mot ett gemensamt mål. Jag utvecklade även mina färdigheter i C#-programmering, arbete med XR Interaction Toolkit och FMOD.</p>"
+    },
+    {
+        "id": "10",
+        "category": "VR",
+        "title": "Skjuta Måltavlor & Zombier",
+        "image": "/assets/images/vr/zombie.jpg",
+        "files": [
+            "/assets/videos/Agent 0 Game.mp4"
+
+         ],
+        "projectInformation": [
+            "Utvecklingstid: 2 månader",
+            "Programvara: Unity",
+            "VR-headset: Oculus Quest 2",
+            "Verktygslåda: XR Interaction Toolkit",
+            "Scener: Blender",
+            "Tillgångar: Unity",
+            "Ljud: FMOD",
+            "Karaktärer: Mixamo",
+            "Karaktärsanimation: Mixamo"
+        ],
+        "projectPurpose": ""
+    },
+    {
+        "id": "5",
+        "category": "Blender",
+        "title": "Inutu ett hus 3D",
+        "image": "/assets/images/blender/house-3d/toilet.jpg",
+        "files": [
+            "/assets/images/blender/house-3d/inside.jpg",
+            "/assets/images/blender/house-3d/livingroom.jpg",
+            "/assets/images/blender/house-3d/bedroom.jpg",
+            "/assets/images/blender/house-3d/hall.jpg",
+            "/assets/images/blender/house-3d/kitchen.jpg",
+            "/assets/images/blender/house-3d/toilet.jpg"
+        ],
+        "projectInformation": [
+            "Utvecklingstid: 3 månader",
+            "Programvara: Blender",
+            "Vertexer: 65,184",
+            "Kanter: 122,502",
+            "Ytor: 58,264",
+            "Triangles: 119,376",
+            "Export Till: Ingen"
+        ],
+        "projectPurpose": "För mitt första modelleringsprojekt i Blender fokuserade jag på att experimentera med inredningen av ett hus, inklusive två sovrum, ett vardagsrum, ett kök och ett badrum. Detta projekt var viktigt för att lära mig grunderna i Blender, eftersom det gav mig möjlighet att öva på att skapa detaljerade modeller och bli bekant med programmets miljö och kortkommandon. Genom denna process fick jag grundläggande färdigheter i 3D-modellering, vilket lade grunden för mer avancerade projekt."
+    },
+    {
+        "id": "9",
+        "category": "Blender",
+        "title": "Shooting Range 3D Scene",
+        "image": "/assets/images/blender/target-scene.jpg",
+        "files": [
+            "/assets/gifs/shooting-target-scene.gif"
+        ],
+        "projectInformation": [
+            "Utvecklingstid: 3 veckor",
+            "Programvara: Blender",
+            "Vertexer: 16,581",
+            "Kanter: 33,067",
+            "Ytor: 16,548",
+            "Trianglar: 33,553",
+            "Export Till: Unity"
+        ],
+        "projectPurpose": "<p>För mitt andra Blender-projekt designade jag en högoptimerad 3D-scen specifikt för integration i Unity för ett VR-spel som jag höll på att utveckla.</p> <p>Detta projekt var en viktig lärandeupplevelse, eftersom det krävde att jag fokuserade på effektiva modelleringsmetoder för att säkerställa att scenen skulle prestera väl i Unity-motorn, särskilt i ett VR-sammanhang. Genom denna process fick jag värdefulla insikter i vikten av optimering och korrekta modelleringspraktiker, vilket är avgörande för att skapa uppslukande och responsiva VR-upplevelser. Detta projekt förbättrade inte bara mina tekniska färdigheter utan fördjupade också min förståelse för det viktiga sambandet mellan Blender och Unity inom spelutveckling.</p>"
+    },
+    {
+        "id": "11",
+        "category": "Blender",
+        "title": "Shipment 3D Scene",
+        "image": "/assets/images/blender/shipment-3d/shipment-3d-4.jpg",
+        "files": [
+            "/assets/images/blender/shipment-3d/shipment-3d-1.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-2.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-3.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-4.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-5.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-6.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-7.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-8.jpg",
+            "/assets/images/blender/shipment-3d/shipment-3d-9.jpg"
+        ],
+        "projectInformation": [
+            "Utvecklingstid: 2 veckor",
+            "Programvara: Blender",
+            "Vertexer: 65,184",
+            "Kanter: 122,502",
+            "Ytor: 58,264",
+            "Trianglar: 119,376",
+            "Export Till: Unity"
+        ],
+        "projectPurpose": "<p>För mitt tredje projekt med Blender skapade jag en scen specifikt för mitt VR-spel, Agent 0. Scenen jag utvecklade var central för spelet, och jag hämtade inspiration från den klassiska Shipment-kartan från Call of Duty. Målet var att på kort tid skapa en detaljerad och funktionell scen, genom att ta inspiration från befintliga spel för att förbättra mina 3D-modelleringskunskaper.</p><p>Detta projekt förbättrade mina modelleringsfärdigheter avsevärt och fördjupade min förståelse för vikten av optimering inom spelutveckling, även om optimeringen fortfarande behöver mer finjustering.</p>"
+    },
+    {
+        "id": "3",
+        "category": "Backend",
+        "title": ".NET Course Application API",
+        "image": "/assets/images/angular-images/codechemist-api.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-api.jpg",
+            "/assets/images/angular-images/Skärmbild 2024-08-20 184120.png"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Språk: JavaScript",
+            "JS Framework: Angular",
+            "Databas: SQL",
+            "Server: Loopia",
+            "Autentisering: JWT Token",
+            "Molnlagring: Cloudinary",
+            "ORM: Entity Framework",
+            "SMTP:Loopia",
+            "Utvecklingsverktyg: Swagger"
+        ],
+        "projectPurpose": "<p>Med utgångspunkt från den grundläggande kunskapen från mitt första projekt visar .NET Course Application API upp de färdigheter och avancerade metoder jag har utvecklat sedan dess. Detta projekt involverade designen av ett robust API med fem kontroller och en trelagersarkitektur (Repository, Service, Controller) för att säkerställa en ren kodorganisering och effektiv databashantering.</p> <p>Jag fortsatte att använda SQL för databasen, som var värd på Loopias molnplattform för bättre skalbarhet och säkerhet. Asynkron programmering användes för att förbättra prestandan. Till skillnad från det första projektet, där Cloudinary användes för att lagra musik och bilder, fokuserade jag i detta projekt på att lagra bilder med Cloudinary. För att hantera stora filer och ZIP-filer för Unity WebGL-spel utvecklade jag ett eget filhanteringssystem, som löste storleksbegränsningarna som Cloudinary hade.</p> <p>Jag utvecklade också ett mer avancerat autentiseringssystem med e-postverifiering via SMTP-tjänster. Omfattande felhantering integrerades för att förbättra användarupplevelsen och förenkla felsökning. <strong>Detta API publicerades och används för närvarande</strong>, vilket visar min förmåga att tillämpa det jag lärt mig i en verklig miljö, hantera komplex data och integrera olika funktioner i en sammanhängande och prestandaeffektiv webbapplikation.</p>"
+    },
+    {
+        "id": "4",
+        "category": "Frontend",
+        "title": "Angular Course Application",
+        "image": "/assets/images/angular-images/codechemist-front.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-front.jpg"
+        ],
+        "projectInformation": [
+            "JS Ramverk: Angular",
+            "Språk: TypeScript",
+            "Backend: .NET",
+            "Utvecklingsverktyg: Node.js",
+            "CSS Ramverk: Bootstrap",
+            "Videospelare: Video.js",
+            "Reaktiv programmering: RxJS"
+        ],
+        "projectPurpose": "<p>Angular Course Application är mitt andra projekt där jag använder ett JavaScript-ramverk, denna gång med Angular. Detta projekt fördjupade min förståelse för moderna front-end ramverk och visade upp Angulars robusta funktioner.</p> <p>Jag använde mig fullt ut av TypeScript och utnyttjade dess kraftfulla funktioner som gränssnitt och typkontroll för att upprätthålla en pålitlig och ren kodbas. Jag använde RxJS och Angular-tjänster, som är avgörande för att hantera asynkrona operationer och följa Angulars bästa praxis.</p> <p>Jag implementerade också robust validering, integrerade Bootstrap för responsiv design och använde Angular guards för att säkra rutter. Applikationen designades för att vara dynamisk och lätt att utöka, vilket gör framtida funktionsutökningar enkla.</p> <p><strong>Efter att utvecklingen var klar publicerades applikationen</strong>, vilket speglar ett betydande framsteg i mina front-end färdigheter med Angular och TypeScript.</p>"
+    },
+    {
+        "id": "7",
+        "category": "Backend",
+        "title": ".NET Music Application API",
+        "image": "/assets/images/vue-images/music-api.jpg",
+        "files": [
+            "/assets/images/Guldlock.jpg",
+            "https://codechemist.se/assets/images/codechemist.svg"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Språk: JavaScript",
+            "Frontend: Angular",
+            "Databas: SQL",
+            "Server: Loopia",
+            "Autentisering: JWT Token",
+            "Molnlagring: Cloudinary",
+            "ORM: Entity Framework",
+            "Utvecklingsverktyg: Swagger"
+        ],
+        "projectPurpose": "<p>Som mitt första försök inom Web API-utveckling var .NET Music Application API främst ett lärandeprojekt. Det var utformat för att hjälpa mig att förstå grundläggande koncept inom API-design och implementering.</p> <p>API:et fokuserade på att hantera relationer mellan artister och låtar, där SQL användes för effektiv databashantering. Jag implementerade ett service layer för att hålla kontrollern ren och fokuserad, vilket gav mig erfarenhet i att strukturera applikationer för bättre organisering.</p> <p>Asynkron programmering introducerades för att förbättra responsiviteten. Nyckelfunktioner som paginering och filtrering lades till, vilket gav praktisk erfarenhet av databehandling.</p> <p>Jag integrerade också Cloudinary för att lagra musik och bilder, vilket gav mig en god förståelse för att arbeta med molntjänster. Grundläggande .NET-autentisering för användarregistrering och inloggning implementerades, vilket lade grunden för framtida förbättringar.</p> <p>Sammanfattningsvis var detta projekt ett viktigt steg i min inlärningsresa.</p>"
+    },
+    {
+        "id": "8",
+        "category": "Frontend",
+        "title": "Vue Music Application",
+        "image": "/assets/images/vue-images/music-front.jpg",
+        "files": [
+            "/assets/images/vue-images/music-front.jpg"
+        ],
+        "projectInformation": [
+            "JS Ramverk: Vue",
+            "Språk: JavaScript",
+            "Backend: .NET",
+            "Utvecklingsverktyg: Node.js",
+            "API: Vue Composition API"
+        ],
+        "projectPurpose": "<p>Vue Music Application var mitt första försök att använda ett JavaScript-ramverk, specifikt Vue.js. Detta projekt var främst en lärandeupplevelse där jag fokuserade på att förstå Vue.js och dess Composition API.</p> <p>Jag integrerade det .NET Music Application API som jag tidigare utvecklat och implementerade CRUD-operationer för att interagera med API:et. Jag lade även till funktioner som paginering och filtrering för att lära mig hantera algoritmer i JavaScript och för att användare skulle kunna söka och navigera i låtdata på ett effektivt sätt.</p> <p>Detta projekt gav mig en praktisk introduktion till Vue-ekosystemet och hjälpte mig att bygga upp färdigheter i JavaScript, HTML och CSS. Det var ett viktigt steg i min utvecklingsresa och gav mig en solid grund i moderna JavaScript-ramverk.</p>"
+    }
+]

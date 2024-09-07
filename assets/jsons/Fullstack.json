@@ -1,0 +1,84 @@
+[
+    {
+        "id": "3",
+        "category": "Backend",
+        "title": ".NET Course Application API",
+        "image": "/assets/images/angular-images/codechemist-api.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-api.jpg",
+            "/assets/images/angular-images/Skärmbild 2024-08-20 184120.png"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Language: JavaScript",
+            "Frontend: Angular",
+            "Database: SQL",
+            "Server: Loopia",
+            "Authentication: JWT Token",
+            "Cloud Storage: Cloudinary",
+            "ORM: Entity Framework",
+            "SMTP:Loopia",
+            "Development Tool: Swagger"
+        ],
+        "projectPurpose": "The aim was to build upon the foundational knowledge from my first API project by creating a more advanced and fully realized web application. This project involved designing a robust API with a three-layer architecture, enhancing file handling with a custom repository for larger files, and implementing a secure user registration and login system with email verification. The focus was on applying best practices, managing complex data relationships, and integrating comprehensive error handling and Cloudinary for media management."
+    },
+    {
+        "id": "4",
+        "category": "Frontend",
+        "title": "Angular Course Application",
+        "image": "/assets/images/angular-images/codechemist-front.jpg",
+        "files": [
+            "/assets/images/angular-images/codechemist-front.jpg"
+        ],
+        "projectInformation": [
+            "JS Framework: Angular",
+            "Language: TypeScript",
+            "Backend: .NET",
+            "Development Tool: Node.js",
+            "CSS Framework: Bootstrap",
+            "Video Player: Video.js",
+            "Reactive Programming: RxJS"
+        ],
+        "projectPurpose": ""
+    },
+    {
+        "id": "7",
+        "category": "Backend",
+        "title": ".NET Music Application API",
+        "image": "/assets/images/vue-images/music-api.jpg",
+        "files": [
+            "/assets/images/Guldlock.jpg",
+            "https://codechemist.se/assets/images/codechemist.svg"
+        ],
+        "projectInformation": [
+            "Backend: .NET",
+            "Language: JavaScript",
+            "Frontend: Vue",
+            "Database: SQL",
+            "Server: Loopia",
+            "Authentication: JWT Token",
+            "Cloud Storage: Cloudinary",
+            "ORM: Entity Framework",
+            "Development Tool: Swagger"
+        ],
+        "projectPurpose": "The aim was to build upon the foundational knowledge from my first API project by creating a more advanced and fully realized web application. This project involved designing a robust API with a three-layer architecture, enhancing file handling with a custom repository for larger files, and implementing a secure user registration and login system with email verification. The focus was on applying best practices, managing complex data relationships, and integrating comprehensive error handling and Cloudinary for media management."
+    },
+    {
+        "id": "8",
+        "category": "Frontend",
+        "title": "Vue Music Application",
+        "image": "/assets/images/vue-images/music-front.jpg",
+        "files": [
+            "/assets/images/Guldlock.jpg",
+            "https://codechemist.se/assets/images/codechemist.svg"
+        ],
+        "projectInformation": [
+            "JS Framework: Vue",
+            "Language: JavaScript",
+            "Backend: .NET",
+            "Development Tool: Node.js",
+            "API: Vue Composition API"
+        ],
+        "projectPurpose": "This project aimed to explore and utilize Vue.js, my first experience with a JavaScript framework. The goal was to integrate and extend the .NET Music Application API, implementing CRUD operations, pagination, and filtering features. It provided practical experience in building dynamic and responsive web applications with Vue.js, JavaScript, HTML, and CSS, while bridging the gap between front-end and back-end technologies."
+    }
+]
