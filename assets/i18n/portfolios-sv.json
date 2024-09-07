@@ -5,7 +5,9 @@
         "title": "Agent 0",
         "image": "/assets/images/vr/construction-scene.jpg",
         "files": [
-            "/assets/videos/video.mp4"
+            "https://codechemist.se//Videos/638607408709817665.mp4",
+            "https://codechemist.se//Videos/638606668680790736.mp4"
+
         ],
         "projectInformation": [
             "Utvecklingstid: 5 veckor",
@@ -18,7 +20,7 @@
             "Karaktärer: Mixamo",
             "Karaktärsanimation: Mixamo"
         ],
-        "projectPurpose": "Detta var mitt andra projekt, och målet var att lära mig att skapa en berättelse med en tydlig början och ett slut. Jag hade tre veckor på mig att slutföra uppgiften. Berättelsen jag skapade handlade om en agent som genomför en mission. Agenten hade en bas och fick olika uppdrag att utföra. Jag lärde mig använda funktioner som gör det möjligt att navigera fram och tillbaka mellan scenerna. I varje scen skulle vissa element vara synliga, och när man gick vidare till nästa uppdragsscen skulle olika funktioner aktiveras. Om man återvände till en tidigare scen skulle antingen något nytt spelas upp eller det som senast gjordes fortsätta.\n\nGenom detta projekt lärde jag mig hur ett sparsystem fungerar. Jag förstod hur man hanterar tillstånd och data mellan olika scener samt hur man implementerar funktioner för att återuppta spelprogressionen. Jag har även skapat scenerna i denna story själv genom att modellera dem i Blender. Allt detta utfördes under en månads period. Jag lyckades uppnå målet med uppgiften och lyckades utveckla mina kunskaper inom spelutveckling ytterligare."
+        "projectPurpose": "<p>Detta var mitt andra projekt, där jag utvecklade ett VR-berättelsebaserat spel under en 5-veckorsperiod. Som ett soloprojekt var jag ansvarig för både programmering och 3D-modellering. Spelet kretsar kring en spelare som antar rollen som en agent och genomför uppdrag som börjar och slutar vid en central bas. Efter varje uppdrag återvänder spelaren till basen för att få nya uppdrag, vilket skapar en dynamisk och engagerande spelupplevelse.</p> <p>Under projektets gång utvecklade jag mina färdigheter i C#-programmering och fick erfarenhet av Unitys AI-system samt animationer. Dessutom modellerade jag spelscenerna med Blender och lärde mig att använda FMOD för ljudintegration. Detta projekt gav mig möjlighet att framgångsrikt kombinera teknisk programmering med kreativ berättelseförmedling, vilket resulterade i en uppslukande VR-upplevelse.</p>"
     },
     {
         "id": "6",
@@ -34,7 +36,7 @@
             "DJ-bord: Blender",
             "Ljud: FMOD"
         ],
-        "projectPurpose": "Detta var mitt tredje projekt och syftet var att lära mig att arbeta i grupp. Vi var fyra personer som samarbetade på detta projekt, som skulle genomföras på mindre än en månad. Temat för projektet var musik, och jag hade ansvaret för att skapa DJ-funktionaliteten i VR-upplevelsen. Detta innebar att jag stod för programmeringsdelen, som jag är mest intresserad av. Målet var att spelaren skulle kunna föreställa sig att de är Avicii och spela Aviciis låtar i en DJ-miljö.\n\nUnder projektet lärde jag mig mycket om gruppsamarbete och hur man effektivt delar upp arbetsuppgifter. Var och en av oss fokuserade på olika delar av projektet, vilket gav mig värdefull erfarenhet av att arbeta tillsammans mot ett gemensamt mål."
+        "projectPurpose": "<p>Detta var mitt tredje projekt, och syftet var att lära mig att arbeta i grupp. Vi var fyra personer som samarbetade i detta projekt, som skulle genomföras på mindre än en månad. Temat för projektet var musik, och jag hade ansvaret för att skapa DJ-funktionaliteten i VR-upplevelsen. Detta innebar att jag ansvarade för programmeringsdelen, som jag är mest intresserad av. Målet var att spelaren skulle kunna föreställa sig att vara Avicii och spela Aviciis låtar i en DJ-miljö.</p><p>Under projektets gång lärde jag mig mycket om gruppsamarbete och hur man effektivt delar upp arbetsuppgifter. Vi fokuserade var och en på olika delar av projektet, vilket gav mig värdefull erfarenhet av att arbeta tillsammans mot ett gemensamt mål. Jag utvecklade även mina färdigheter i C#-programmering, arbete med XR Interaction Toolkit och FMOD.</p>"
     },
     {
         "id": "10",
@@ -42,8 +44,9 @@
         "title": "Skjuta Måltavlor & Zombier",
         "image": "/assets/images/vr/zombie.jpg",
         "files": [
-            ""
-        ],
+            "/assets/videos/Agent 0 Game.mp4"
+
+         ],
         "projectInformation": [
             "Utvecklingstid: 2 månader",
             "Programvara: Unity",
@@ -79,7 +82,7 @@
             "Triangles: 119,376",
             "Export Till: Ingen"
         ],
-        "projectPurpose": "Detta var min första modellering i Blender. Här testade jag att modellera inuti ett hus och skapade två sovrum och ett vardagsrum. Jag designade även ett kök och en toalett. Som mitt första Blender-projekt fokuserade jag mest på att skapa så många modeller som möjligt för att göra huset detaljerat. Allt detta gjorde jag för att träna på hur Blender fungerar, lära mig Blender-miljön och genvägarna i programmet."
+        "projectPurpose": "För mitt första modelleringsprojekt i Blender fokuserade jag på att experimentera med inredningen av ett hus, inklusive två sovrum, ett vardagsrum, ett kök och ett badrum. Detta projekt var viktigt för att lära mig grunderna i Blender, eftersom det gav mig möjlighet att öva på att skapa detaljerade modeller och bli bekant med programmets miljö och kortkommandon. Genom denna process fick jag grundläggande färdigheter i 3D-modellering, vilket lade grunden för mer avancerade projekt."
     },
     {
         "id": "9",
@@ -87,7 +90,7 @@
         "title": "Shooting Range 3D Scene",
         "image": "/assets/images/blender/target-scene.jpg",
         "files": [
-            "/assets/images/gifs/shooting-target-scene.gif"
+            "/assets/gifs/shooting-target-scene.gif"
         ],
         "projectInformation": [
             "Utvecklingstid: 3 veckor",
@@ -98,7 +101,7 @@
             "Trianglar: 33,553",
             "Export Till: Unity"
         ],
-        "projectPurpose": "Mitt andra Blender-projekt var en scen som skulle användas i Unity. Jag skapade ett VR-spel och behövde en scen för det. Här fokuserade jag på att optimera min Blender-modellering så mycket som möjligt för att sedan kunna implementera den i Unity. Under detta projekt fick jag en bättre förståelse för hur viktigt det är att modellera korrekt för att kunna användas i Unity och VR."
+        "projectPurpose": "<p>För mitt andra Blender-projekt designade jag en högoptimerad 3D-scen specifikt för integration i Unity för ett VR-spel som jag höll på att utveckla.</p> <p>Detta projekt var en viktig lärandeupplevelse, eftersom det krävde att jag fokuserade på effektiva modelleringsmetoder för att säkerställa att scenen skulle prestera väl i Unity-motorn, särskilt i ett VR-sammanhang. Genom denna process fick jag värdefulla insikter i vikten av optimering och korrekta modelleringspraktiker, vilket är avgörande för att skapa uppslukande och responsiva VR-upplevelser. Detta projekt förbättrade inte bara mina tekniska färdigheter utan fördjupade också min förståelse för det viktiga sambandet mellan Blender och Unity inom spelutveckling.</p>"
     },
     {
         "id": "11",
@@ -125,7 +128,7 @@
             "Trianglar: 119,376",
             "Export Till: Unity"
         ],
-        "projectPurpose": "Detta var mitt tredje Blender-projekt. Jag skapade projektet för att användas i mitt VR-spel, Agent 0. Denna scen var central för spelet. Jag inspirerades av den klassiska Shipment-scenen från Call of Duty, som jag spelade när jag var yngre, och använde den som referens för min scenmodellering."
+        "projectPurpose": "<p>För mitt tredje projekt med Blender skapade jag en scen specifikt för mitt VR-spel, Agent 0. Scenen jag utvecklade var central för spelet, och jag hämtade inspiration från den klassiska Shipment-kartan från Call of Duty. Målet var att på kort tid skapa en detaljerad och funktionell scen, genom att ta inspiration från befintliga spel för att förbättra mina 3D-modelleringskunskaper.</p><p>Detta projekt förbättrade mina modelleringsfärdigheter avsevärt och fördjupade min förståelse för vikten av optimering inom spelutveckling, även om optimeringen fortfarande behöver mer finjustering.</p>"
     },
     {
         "id": "3",
@@ -148,7 +151,7 @@
             "SMTP:Loopia",
             "Utvecklingsverktyg: Swagger"
         ],
-"projectPurpose": "Med utgångspunkt från den grundläggande kunskapen från mitt första API-projekt representerar .NET Kurs Applikation API en betydande utveckling i mina API-utvecklingsfärdigheter. Detta projekt visar på mer avancerade metoder och en fullt realiserad webbapplikation.<p> I detta projekt designade jag ett robust API enligt bästa praxis inom .NET, och implementerade fem kontroller för att hantera komplexa datarelationer och deras interaktioner. Arkitekturen följer en tydlig separation av ansvarsområden genom att använda en trelagersstruktur: Repository, Service och Controller. Denna struktur säkerställer en välorganiserad kodbas och effektiv datahantering.</p><p> Jag använde SQL för databashantering, med SQL-servern fjärrhostad på Loopias molnplattform, vilket ger en skalbar och säker miljö för datahantering. För att optimera applikationens prestanda implementerade jag asynkron programmering med async/await-uppgifter, vilket säkerställer att operationer som databasanrop och externa API-anrop utförs effektivt.</p><p> Vidare, för hantering av bilder och filer, fortsatte jag att använda Cloudinary och hanterade dess 100MB filstorleksbegränsning genom att implementera ett eget file repository. Denna förbättring möjliggör uppladdning av större mediefiler, inklusive WebGL-webbaserade spel. Användare kan ladda upp en ZIP-fil som innehåller spelet, vilket sedan bearbetas och konverteras till ett spelbart WebGL-spel med hjälp av Unity, direkt tillgängligt på webbplatsen.</p><p> När det gäller autentisering utforskade jag avancerade säkerhetsmetoder inom .NET genom att utveckla ett robust registrerings- och inloggningssystem med e-postverifiering. Detta system integrerades med SMTP-tjänster från Loopia för att säkerställa tillförlitlig e-postleverans för kontoverifiering. Vid registrering får användarna ett bekräftelsemail med en verifieringslänk, vilket säkerställer en säker och pålitlig autentiseringsprocess.</p><p> Omfattande felhantering var en annan kritisk aspekt av detta API. Jag säkerställde att fel effektivt kommuniceras till frontenden, så att Angular-frontenden kan visa detaljerade felmeddelanden från API. Denna funktion förbättrar användarupplevelsen och förenklar felsökning.</p><p> Sammanfattningsvis visar .NET Kurs Applikation API min förmåga att tillämpa bästa praxis, hantera komplexa datarelationer, integrera olika funktionaliteter i en sammanhängande webbapplikation och effektivt använda asynkron programmering för förbättrad prestanda. Detta projekt markerar en betydande milstolpe i min resa inom API-utveckling.</p>"
+        "projectPurpose": "<p>Med utgångspunkt från den grundläggande kunskapen från mitt första projekt visar .NET Course Application API upp de färdigheter och avancerade metoder jag har utvecklat sedan dess. Detta projekt involverade designen av ett robust API med fem kontroller och en trelagersarkitektur (Repository, Service, Controller) för att säkerställa en ren kodorganisering och effektiv databashantering.</p> <p>Jag fortsatte att använda SQL för databasen, som var värd på Loopias molnplattform för bättre skalbarhet och säkerhet. Asynkron programmering användes för att förbättra prestandan. Till skillnad från det första projektet, där Cloudinary användes för att lagra musik och bilder, fokuserade jag i detta projekt på att lagra bilder med Cloudinary. För att hantera stora filer och ZIP-filer för Unity WebGL-spel utvecklade jag ett eget filhanteringssystem, som löste storleksbegränsningarna som Cloudinary hade.</p> <p>Jag utvecklade också ett mer avancerat autentiseringssystem med e-postverifiering via SMTP-tjänster. Omfattande felhantering integrerades för att förbättra användarupplevelsen och förenkla felsökning. <strong>Detta API publicerades och används för närvarande</strong>, vilket visar min förmåga att tillämpa det jag lärt mig i en verklig miljö, hantera komplex data och integrera olika funktioner i en sammanhängande och prestandaeffektiv webbapplikation.</p>"
     },
     {
         "id": "4",
@@ -167,7 +170,7 @@
             "Videospelare: Video.js",
             "Reaktiv programmering: RxJS"
         ],
-        "projectPurpose": "Angular Kurs Applikation markerar mitt andra projekt där jag använder ett JavaScript-ramverk, denna gång med fokus på Angular. Denna erfarenhet fördjupade min förståelse för moderna frontend-ramverk och stärkte min uppskattning för Angulars robusta funktioner. I detta projekt omfamnade jag fullt ut TypeScript och följde bästa praxis för frontend-utveckling. Jag utnyttjade TypeScripts kraftfulla funktioner, såsom interfaces och type safety, för att undvika användningen av any och säkerställa en mer tillförlitlig och underhållbar kodbas. Att arbeta med TypeScript var särskilt tillfredsställande eftersom det påminde om min erfarenhet av C#, ett språk jag verkligen uppskattar. Genom hela projektet använde jag RxJS och Angulartjänster för att anpassa mig till Angulars bästa praxis och implementerade reaktiv programmering för att effektivt hantera asynkrona operationer. Jag implementerade även noggrann validering för att säkerställa applikationens robusthet. För att förbättra användargränssnitt"
+        "projectPurpose": "<p>Angular Course Application är mitt andra projekt där jag använder ett JavaScript-ramverk, denna gång med Angular. Detta projekt fördjupade min förståelse för moderna front-end ramverk och visade upp Angulars robusta funktioner.</p> <p>Jag använde mig fullt ut av TypeScript och utnyttjade dess kraftfulla funktioner som gränssnitt och typkontroll för att upprätthålla en pålitlig och ren kodbas. Jag använde RxJS och Angular-tjänster, som är avgörande för att hantera asynkrona operationer och följa Angulars bästa praxis.</p> <p>Jag implementerade också robust validering, integrerade Bootstrap för responsiv design och använde Angular guards för att säkra rutter. Applikationen designades för att vara dynamisk och lätt att utöka, vilket gör framtida funktionsutökningar enkla.</p> <p><strong>Efter att utvecklingen var klar publicerades applikationen</strong>, vilket speglar ett betydande framsteg i mina front-end färdigheter med Angular och TypeScript.</p>"
     },
     {
         "id": "7",
@@ -189,7 +192,7 @@
             "ORM: Entity Framework",
             "Utvecklingsverktyg: Swagger"
         ],
-        "projectPurpose": "Som mitt första steg inom Web API-utveckling skapade jag .NET Musik Applikation API för att fördjupa mig i grunderna av API-design och implementering. Detta projekt motiverades av en önskan att lära mig och tillämpa kärnkoncept i en praktisk utvecklingsmiljö. Det primära målet med detta API var att hantera relationer mellan artister och låtar samt att effektivt hantera relationsdata. För att hålla kontrollerna rena och fokuserade på att hantera förfrågningar utvecklade jag ett service layer som kapslar in business logic. Detta tillvägagångssätt gjorde det möjligt för mig att strukturera applikationen för bättre organisation och skalbarhet. Jag använde SQL som databaslösning, vilket gav mig praktisk erfarenhet av att hantera och querying relationsdata effektivt. Dessutom implementerade jag asynkron programmering med async/await-uppgifter för att förbättra applikationens responsivitet och prestanda, särskilt vid hantering av databasoperationer och externa API-anrop. Ett viktigt lärande var implementeringen av paginering och filtreringsfunktioner. Jag lade till anpassade frågeparametrar som sökterm, genre, sidnummer, sidstorlek och alfabetisk sortering, vilket möjliggjorde effektiv datahämtning och navigering. Detta gav värdefull erfarenhet av att hantera dataåtkomst och förbättra användarinteraktionen. För att hantera mediefiler integrerade jag Cloudinary för att lagra bilder och låtar. Denna integration var en kritisk inlärningsupplevelse när det gäller att arbeta med molntjänster och effektivt hantera mediefiler. Dessutom implementerade jag grundläggande .NET-autentisering, vilket möjliggör användarregistrering och inloggning. Även om detta gav en grundläggande förståelse för autentisering, inser jag att det finns utrymme för förbättringar och planerar att vidareutveckla dessa funktioner i framtiden. Sammanfattningsvis var detta projekt ett viktigt steg i min läranderesa och gav mig praktisk erfarenhet av API-utveckling."
+        "projectPurpose": "<p>Som mitt första försök inom Web API-utveckling var .NET Music Application API främst ett lärandeprojekt. Det var utformat för att hjälpa mig att förstå grundläggande koncept inom API-design och implementering.</p> <p>API:et fokuserade på att hantera relationer mellan artister och låtar, där SQL användes för effektiv databashantering. Jag implementerade ett service layer för att hålla kontrollern ren och fokuserad, vilket gav mig erfarenhet i att strukturera applikationer för bättre organisering.</p> <p>Asynkron programmering introducerades för att förbättra responsiviteten. Nyckelfunktioner som paginering och filtrering lades till, vilket gav praktisk erfarenhet av databehandling.</p> <p>Jag integrerade också Cloudinary för att lagra musik och bilder, vilket gav mig en god förståelse för att arbeta med molntjänster. Grundläggande .NET-autentisering för användarregistrering och inloggning implementerades, vilket lade grunden för framtida förbättringar.</p> <p>Sammanfattningsvis var detta projekt ett viktigt steg i min inlärningsresa.</p>"
     },
     {
         "id": "8",
@@ -206,6 +209,6 @@
             "Utvecklingsverktyg: Node.js",
             "API: Vue Composition API"
         ],
-        "projectPurpose": "Vue Music Application markerar mitt första steg in i att använda ett JavaScript-ramverk, specifikt Vue.js. Projektet innebar att integrera och utöka .NET Music Application API som jag tidigare utvecklat. Mitt huvudsakliga mål var att få en djup förståelse för hur Vue.js fungerar och att använda Composition API för effektivare hantering av komponenter. Under projektets gång fokuserade jag på att bemästra Vue.js och det bredare JavaScript-ekosystemet genom att implementera CRUD-operationer för att interagera med API. Jag inkluderade också paginering och filtreringsfunktioner som låter användare söka och navigera i musikdata effektivt genom att använda anpassade frågeparametrar som sökterm, genre, sidnummer, sidstorlek och alfabetisk sortering. Detta projekt förbättrade avsevärt mina kunskaper i JavaScript, HTML och CSS. Det gav en praktisk introduktion till Vue-ekosystemet och erbjöd praktisk erfarenhet av att bygga dynamiska, responsiva webbapplikationer som effektivt integreras med backend-tjänster. Sammanfattningsvis var Vue Music Application ett avgörande steg i att utveckla mina färdigheter och fördjupa min förståelse för moderna JavaScript-ramverk."
+        "projectPurpose": "<p>Vue Music Application var mitt första försök att använda ett JavaScript-ramverk, specifikt Vue.js. Detta projekt var främst en lärandeupplevelse där jag fokuserade på att förstå Vue.js och dess Composition API.</p> <p>Jag integrerade det .NET Music Application API som jag tidigare utvecklat och implementerade CRUD-operationer för att interagera med API:et. Jag lade även till funktioner som paginering och filtrering för att lära mig hantera algoritmer i JavaScript och för att användare skulle kunna söka och navigera i låtdata på ett effektivt sätt.</p> <p>Detta projekt gav mig en praktisk introduktion till Vue-ekosystemet och hjälpte mig att bygga upp färdigheter i JavaScript, HTML och CSS. Det var ett viktigt steg i min utvecklingsresa och gav mig en solid grund i moderna JavaScript-ramverk.</p>"
     }
 ]
